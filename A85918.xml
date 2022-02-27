@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first lecture, of an introduction to cosmographie, (vvhich is a description of all the world) / read publickly at Sr. Balthazar Gerbier his academy, at Bednall-Greene.</title>
+            <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85918</idno>
+            <idno type="STC">Wing G557</idno>
+            <idno type="STC">Thomason E573_5</idno>
+            <idno type="STC">ESTC R206200</idno>
+            <idno type="EEBO-CITATION">99865374</idno>
+            <idno type="PROQUEST">99865374</idno>
+            <idno type="VID">165389</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165389)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first lecture, of an introduction to cosmographie, (vvhich is a description of all the world) / read publickly at Sr. Balthazar Gerbier his academy, at Bednall-Greene.</title>
+                  <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson, and are to be sold by Hanna Allen at the Crown in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 11".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astronomy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165389:1" rendition="simple:additions"/>
+            <p>THE FIRST LECTVRE, Of an Introduction to <hi>COSMOGRAPHIE,</hi> (VVhich is a deſcription of all the WORLD) read publickly at S<hi rend="sup">r</hi>. Balthazar Gerbier His ACADEMY, AT <hi>Bednall-Greene.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Gartrude Dawſon,</hi> and are to be ſold by <hi>Hanna Allen</hi> at the Crown in Popes-head-Alley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="lecture">
+            <pb facs="tcp:165389:2"/>
+            <pb n="1" facs="tcp:165389:2"/>
+            <head>The publique Lecture of an Introdu<g ref="char:EOLhyphen"/>ction to <hi>Coſmographie</hi> (which is a deſcription of the whole World) read publique at Sr. <hi>Balthazar Gerbier</hi> his Academy at <hi>Bednall Green.</hi>
+            </head>
+            <head type="sub">Coſmographie is the deſcription of the Celeſtiall and Elemen<g ref="char:EOLhyphen"/>tary Region.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Celeſtiall region, we learn to know Heaven; its matter, its qualitie, the Planets, their motions, their order, &amp;c.</p>
+            <p>In the Elementary, we ſee that moſt ad<g ref="char:EOLhyphen"/>mirable eſtabliſhment of the Elements, who by their unequall proportioned aſſemblage doe compoſe ſo many ſorts of mixtures as we ſee here below.</p>
+            <p>This will be held forth with their qualities, properties, and ſituations.</p>
+            <p>And we ſhall ſee in that which ſerves for a Center to the univerſall world, ſtore of ſatisfying remarkable and neceſſary things, viz.</p>
+            <list>
+               <item>1. The proofs of its Circular form;</item>
+               <item>2. Which of the Earth or of the Water, doth paſſe the one or the other in quantities.</item>
+               <item>3. The off ſprings of Springs and Floods.</item>
+               <item>4. The ſmalneſſe of the Tereſtriall Globe; not onely in compariſon of Heaven; but alſo of the Sun and of the Stars, how the ſaid earth can be meaſured in its ſuperficie and Soliditie.</item>
+            </list>
+            <pb n="2" facs="tcp:165389:3"/>
+            <p>Then wee ſhall make the deſcription of the Circles, which muſt be imagined to be in the Heaven; to the end, we may learn the courſe of the Aſters<g ref="char:punc">▪</g> and the effects which we feel of them; as their riſing and their going down: The Summer and Winter, the long and the ſhort dayes.</p>
+            <p>The Solſtices and the Equinoxes, from whence proceeds the different Conſtitutions of the Earth; And thus many things, the curioſity whereof is extreamly commendable, prove to be altogether neceſſary to thoſe that doe deſire to paſſe for men of knowledge and underſtanding.</p>
+            <p>And to make an end in our Sphere; we ſhall achieve with a Lecture on the Meteors, wherein all the impreſſions which are made as well of Fire as of Aire, and of Water in the high, middlemoſt, and low region of the Aire ſhall be clearly brought and reported unto us.</p>
+            <p>That is to ſay, whence proceedeth, in the high region of the Ayre, the impreſſions of Fire <hi>viz.</hi> D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds, Lances, Flying-ſtars and Commets which in the Heaven ſeem ſome<g ref="char:EOLhyphen"/>times to be all on fire; the lightning thunders, and thunder<g ref="char:EOLhyphen"/>bolts in the midlemoſt and in the lowermoſt; the wilde-fires, glow-worms, &amp;c.</p>
+            <p>Next to this, the impreſſions of the Ayre, as the Windes, Storms, and Whirle-windes; thoſe of the Waters, as the Clouds, the Rayns, Snow, and Haile, both made in the mid<g ref="char:EOLhyphen"/>dlemoſt.</p>
+            <p>Then wee ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll proceed to other impreſſions, concerning that Crown of ſplendor which is about the Sunne, the Rain<g ref="char:EOLhyphen"/>bow; and then we ſhall deſcend to know, whence proceed Fogs, Dews, Froſt, and Ice.</p>
+            <p>We ſhall end with the three kindes, Minerall, Vegetall, and Animall; ſeeing in the Minerall, the generation of the Minerals in the bowels of the Earth, their qualities and ally<g ref="char:EOLhyphen"/>ances; and how they are ſeven, correſpondent to the ſeven Planets. Then the Stones of all kinde, and the Saps conden<g ref="char:EOLhyphen"/>ſing
+<pb n="3" facs="tcp:165389:3"/>in the Mines, as Vitriol, Alum, &amp;c.</p>
+            <p>In the Vegetall gender, wee ſhall conſider the nature of Plants, their faculties to put forth, and to multiply by their ſeed; then we ſhall conclude by the Animals, which beſides the Soul and Vegetating faculty and putting forth, have more and above the ſenſitive, which gives feeling and mo<g ref="char:EOLhyphen"/>tion, and are much above the Plants; all their Organes and naturall parts being much the more perfect.</p>
+            <p>But there are of two ſorts of them, the Irrationall and ra<g ref="char:EOLhyphen"/>tionall: Beaſt and Man.</p>
+            <p>Wee ſhall leave the Beaſt to ſpeak of reaſonable.</p>
+            <p>Let us then ſay, that Man more worthy then all things hath been created by God; for that by his word all things have been made, <hi>Fiat Lux, Gen.</hi> 2. the light hath appeared; <hi>For<g ref="char:EOLhyphen"/>mavit Dominus Deus hominem de Limo Terrae, &amp; inſpiravit in faciem ejus Spiraculum vitae, &amp; factus eſt homo in animam vi<g ref="char:EOLhyphen"/>ventem;</hi> and hath animated him and indoved, beſides the precedent ſaid qualities, with an intelectuall Soule, whereof depends the underſtanding and the will.</p>
+            <p>Now let us conſider I beſeech you, how the mercy of God hath always increaſed ſome perfection of degree in each body, to make in man a fulneſſe of the perfection of all his works; and ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ſet him as a King to command, and to make uſe of the aforeſaid things: <hi>Et praeſit piſcibus Maris &amp; volati<g ref="char:EOLhyphen"/>libus Coeli, &amp; Beſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, univerſaeque terrae, omnique reptili quod mo<g ref="char:EOLhyphen"/>vetur in Terrae;</hi> which are onely made for his uſe and advan<g ref="char:EOLhyphen"/>tage, for God was no leſſe before the world, then he is; and had no need of them to be more glorious: We ought therefore to have a great and deep ſence of acknowledgement; and that our labour be not in vain, we muſt conſider that great Architecture, in his wiſdome, in his power, in his libe<g ref="char:EOLhyphen"/>rality, and in his bounty; Adore him, honour him, and ad<g ref="char:EOLhyphen"/>mire him in all his attributes, and thank him inceſſantly, not onely for the preſent means (the viciſſitude whereof ſuffici<g ref="char:EOLhyphen"/>ently
+<pb n="4" facs="tcp:165389:4"/>ſheweth its vanity) but for the hope of eternals. to which he hath deſigned us, provided we prove true, and that by Faith, made good by our works, that we doe acknow<g ref="char:EOLhyphen"/>ledge him.</p>
+            <p>But unhappy man, that the creature is more praiſed then the Creator, the gift preferred to the Giver; and that which we ſhould but take paſſing by (as Chriſtian prudence permits and wils) we doe abuſe, of it by a moſt horrid blindneſſe, preferring a thing which we all know to be created in the or<g ref="char:EOLhyphen"/>der of Nature, to the Author of it.</p>
+            <p>With horrid ſhame and confuſion therefore the inſenſi<g ref="char:EOLhyphen"/>ble things tell unto thoſe their Leſſon, that dare ſo boldly and ſo impudently abuſe of that great authour, guider and preſerver of all things.</p>
+            <p>But he will not be abuſed, doe what thou canſt, O enra<g ref="char:EOLhyphen"/>ged Atheiſt! thou perverſt wit, of the perverſt time; and he will in the dayes of vengeance make thee confeſſe thy wil<g ref="char:EOLhyphen"/>full malice; for ignorant thou art not, thy ſenſes doe con<g ref="char:EOLhyphen"/>demne thee, ſo doe the Elements; who dayly ſeek their elementary place, the fire being light it aſcends; the Ayre being leſſe light, remains lower: the Earth the heavier of the foure holds the Center; the Water which is leſſe ſwim's above it.</p>
+            <p>Now thoſe things that are mixt, as they have one of the elementary qualities in degrees eminent above the others; they likewiſe ſeek their Sphere, and do not reſt untill they are come where they ſhould be.</p>
+            <p>A Stone would deſcend to the center of the Earth if there were an overture; Wood ſwims above the Waters, and why?</p>
+            <p>Becauſe there is more ayre and fire in its compoſition, then in the Water, nor in the Stone: and let man do what he will, it ſhall ever be ſo, and why? Becauſe God hath created them, and hath given unto them the light and heavy qualities, who
+<pb n="5" facs="tcp:165389:4"/>cauſe that motion, which makes the light things to aſcend, and the heavy ones to deſcend; and this is inviolable, and all obeyeth unto it.</p>
+            <p>Now let us come to Man, made by God as well as the o<g ref="char:EOLhyphen"/>ther Elements, and all things; and wherefore? Is it not to be a beholder of his greatneſſe, and to adore him? That is the end: He hath made him to his reſemblance, given him a Soule, with a reaſonable taſte.</p>
+            <p>To what can it be more fitly applyed, then to follow in all things the deſign and intent of his Maker, from the beginning to the end: and its without doubt the true reaſon, and the true vocation of man; and thence it is, man ought no more to depart from it, then the Stones to deſcend, and the Fire to aſcend: God hath created thee O man to this effect; and it is his purpoſe; but if thou doeſt not follow him, to what ſerves thy intelligence, knowledge, and thy will, but to har<g ref="char:EOLhyphen"/>den thy ſelf againſt the will of God? and more then all inani<g ref="char:EOLhyphen"/>mate things, and to hinder the effect of his purpoſe in thee: O man, think on this, and hold it for certain, that if thou doſt imploy that Talent which thou haſt, to render more honour to vice, and to thy wilfull unruled ſences then to God, thou art unworthy to be put beneath the inſenſible things; and that inſtead thou was created for an eternall bliſſe, to the con<g ref="char:EOLhyphen"/>trary, thou doeſt deſerve to endure eternall torments.</p>
+            <p>Whereof God in mercy preſerve us all, and grant unto us that true reaſon which may preſerve in us his true workman<g ref="char:EOLhyphen"/>ſhip, and enable us to deſtroy our own: <hi>Dele quod feciſti ut Deus ſalvet quod fecit;</hi> ſaith the great <hi>Auguſtin.</hi>
+            </p>
+            <p>Now let us enter into ſome particulars concerning this World, and for our preſent uſe, diſpoſing our ſelves to con<g ref="char:EOLhyphen"/>template the ſame from above with more ſecurity.</p>
+            <p>We ſhall begin with the Spheare.</p>
+            <div type="part">
+               <pb facs="tcp:165389:5"/>
+               <pb n="7" facs="tcp:165389:5"/>
+               <head>What the Spheare is.</head>
+               <p>THe doctrine of the Spheare, is the knowledge of the World.</p>
+               <p>The World is the aſſembling and the order of all that God hath created; it is the compoſed of Heaven and Earth, or of the Celeſtiall region, and of the Elementall <hi>region:</hi> Therefore it is called Vniverſe; and for to have a more per<g ref="char:EOLhyphen"/>fect intelligence of this ſcience, there hath been made an arti<g ref="char:EOLhyphen"/>ficiall Spheare; this inſtrument is of a round form, compo<g ref="char:EOLhyphen"/>ſed of circles, by the which (though imaginary) the motion of the Heavens is ſhewed; the reaſon of the changing of ſea<g ref="char:EOLhyphen"/>ſons, that of the difference of dayes and nights, according to the places of the earth, in effect, the order of the World to the reſemblance of which this inſtrument hath been made.</p>
+            </div>
+            <div type="part">
+               <head>What Heaven is.</head>
+               <p>AS we have not a deſigne to make a building in the Ayre, but to prove all that which we ſhall ſay; it is neceſſary to prove, that there is a Heaven, before we come to its qualities: but it is a thing very eaſie, becauſe that nature ſuffering no emptineſſe, it muſt of neceſſity be that that ſpace, which is from the Firmament and imperiall, unto the lowermoſt of the Planets, (which is the Moone) be filled of ſome matter; now this matter is called Heaven, which is ſimple, ſolide, fixt, ſhi<g ref="char:EOLhyphen"/>ning, tranſparent, incorruptible, and exempted from chang<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="part">
+               <head>Of the qualities of Heaven</head>
+               <p>ALL Naturall things have two principles; God firſt, then Nature; to the which he hath given full power to work, by a certain univerſall ſpirit which he hath incloſed in her.</p>
+               <pb n="8" facs="tcp:165389:6"/>
+               <p>The Naturall things are corporall eſſences, which ſubſiſt of themſelves, and iſſue of the union of the matter and of the forme: Now then nature conſiſts in theſe two points, in the matter of the which the naturall bodies are ingendred, and in the forme which cauſeth them to be th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t which they are; but the matter is ſuſceptible of divers formes, and hath not ſo ſoon loſt one, but it takes another; and for as much that it cannot receive any before it be deprived of the Precedent; The Phyloſophers have eſtabliſhed three Principles, the Mat<g ref="char:EOLhyphen"/>ter, the Forme, and the Privation.</p>
+               <p>Now, there is two ſorts of naturall Bodies, ſome ſimple, and ſome mixt: The ſimple are the Heavens and the Ele<g ref="char:EOLhyphen"/>ments, becauſe they are ſimple in their creation, and can never be changed in divers formes; the mixt to the contrary, are thoſe which draw their compoſition from the Elementall Qualities, and are ſuſceptible of divers formes.</p>
+               <p>The Matter of the Heaven is then ſimple, it is alſo ſolid and fixe, becauſe that the Starres which from the begin<g ref="char:EOLhyphen"/>ning of the world untill this preſent move and turne, have never changed, nor varied their figures, nor the diſtances which they have the one with the other, and this order could not have been conſerved without ſome ſolid thing which conſtrained them thereunto, which can be no other thing then the ſolid and fixt matter of the Heaven; Likewiſe it's the opinion of the moſt ſenſed, and the moſt approved which is authorized of the ancient Aſtronomers, Which have writen that the Starres are of the ſame matter that Heaven is, but more thicke becauſe they ſtop the light of the Sunne, and not the Heaven (as we ſhall ſhow hereafter) and ſaid that the Stars were in Heaven, as the knurre in boards; others will have the Sarres and Planets to be in a continued aire, like as Birds in the aire, but there ought to be many particular pro<g ref="char:EOLhyphen"/>perties, to maintaine them all in an order ſo Permanent and unchangeable againſt the violent ſwiftneſſe of ſo many con<g ref="char:EOLhyphen"/>trary
+<pb n="9" facs="tcp:165389:6"/>motions: I doe alſo let paſſe that opinion with the Flight of their Birds.</p>
+               <p>The matter of Heaven is of an aboundant ſhining, ſince that the Sunne, the Moone, the Starres are ſo, which are of the ſame matter; but to ſay better, the matter of Heaven is Tranſparent, and the Sun and the Stars are not, that the Heaven is tranſparent, its eaſie to prove it, and the experience doth to much manifeſt it unto us; for if the Heaven of the Moon were duskie, it would hinder to ſee the Sun and the other Stars which are above it: For the Sun, the Moon and the Stars that they are dusky, their eclipſes do give it us to un<g ref="char:EOLhyphen"/>derſtand.</p>
+               <p>This matter is alſo incorruptible, and conſequently exempt of changing ſince it is ſimple, and in its quarters the generati<g ref="char:EOLhyphen"/>on findes no employment.</p>
+            </div>
+            <div type="part">
+               <head>Of the Celeſtiall Region.</head>
+               <p>THE Celeſtiall Region is the aſſembling of all the Hea<g ref="char:EOLhyphen"/>vens, it wholy comprehends it; we ſhall ſee the or<g ref="char:EOLhyphen"/>der and the courſe in its place.</p>
+               <p>Their mater, as we have proved, is ſolid, of the which are the Stars and the Planets but more compacted together, that is to ſay, that the matter is more gathered and as Poliſh<g ref="char:EOLhyphen"/>ed bodies receive and cauſe the light which they borrow of the Sun to reverberate (as we ſhall prove hereafter) for the Heaven it is tranſparent.</p>
+               <p>There is two ſorts of Stars, Fixe and Errants; the Fixed are thoſe which never change their figures and have all one the ſame Motion, which is that of the Firmament; The Er<g ref="char:EOLhyphen"/>rants are the Planets which have all different motions with that of the Firmament, they are ſeven, to the which the an<g ref="char:EOLhyphen"/>cient have given the names of their Deities, for the power of
+<pb n="10" facs="tcp:165389:7"/>their influences, <hi>viz. Saturne, Jupiter, Mars, the Sun, Mercury, Venus</hi> and the <hi>Moon.</hi>
+               </p>
+               <p>Duskie Matter, is that which gives no paſſage to the Light, as the Wood, the Stone.</p>
+               <p>Solid and Fixed Matter, is that which ſuffers not eaſily penetration, as the Glaſse, the Chryſtall.</p>
+               <p>Penetrable Matter is that which ſuffers with facility Pe<g ref="char:EOLhyphen"/>netration, as the Aire, the Water, and the Fire.</p>
+               <p>Tranſparent Matter, is that which gives paſſage to the Light, as the Glaſſe and the Chriſtall.</p>
+               <p>The Matter of Heaven, is then Solid, Fixe, Impenetrable and Tranſparent.</p>
+            </div>
+            <div type="part">
+               <head>That there are many Heavens.</head>
+               <p>ITs proved that there are many Heavens by the diverſity of the motions in this manner.</p>
+               <p>Since the matter of Heaven is ſolid, two Planets having different motions cannot be in the ſame Heaven; by the ſame reaſon it ought to be noted that its not the Planet which moves, but its Heaven, otherwiſe they would penetrate the matter which is ſolid; But the Sun and the Moon have different motions: For the Sun atchieves its courſe in a year, and the Moon in a month, then the Sun and the Moon can<g ref="char:EOLhyphen"/>not be in the ſame Heaven; by this reaſon there being not two of all theſeven Planets which have the ſame motion, there ſhall require ſeven Heavens for the ſeven Planets, the matter of Heaven being fixe and impenetrable.</p>
+               <p>There can be ſaid againſt this, that there may be one onely Heaven of an impenetrable matter, in the which many ſpa<g ref="char:EOLhyphen"/>ces are imagined, by the which the Planets having different motions can make their courſes: but this comes alwayes to the point, <hi>viz.</hi> That there muſt alwayes be ſeven ſpaces for the ſeven Planets, which muſt be filled with ſeven bodyes,
+<pb n="11" facs="tcp:165389:7"/>which are called Heavens, which are joyned the one to the other.</p>
+            </div>
+            <div type="part">
+               <head>Of the Firmament or eigth Heaven.</head>
+               <p>WEE have proved that there are ſeven Heavens for the ſeven Planets: we will ſhew yet that there muſt be another Heaven for all the fixed Stars, different from the ſeven others. For the antient Aſtronomers having obſerved, that the motion of the Stars was very ſlow, and did not ad<g ref="char:EOLhyphen"/>vance; but from a hundred, to a hundred years a degree: It hath then been neceſſary to admit an eigth Heaven; In the which are all the fixed Stars, which doe not vary their ſituation, diſtance, nor figure; and this Heaven is called Firmament.</p>
+            </div>
+            <div type="part">
+               <head>If the Stars are infinite, and how the Aſtro<g ref="char:EOLhyphen"/>nomers divide them.</head>
+               <p>FOr the fixed Stars, we hold them to be infinite; as the holy Scripture teſtifies it; its to ſay, that beſides the great infinite number which are ſeen; there is yet an infinite of others little, which are not ſeen, as hath been known by certain Proſpective glaſſes which have been made in <hi>Italy.</hi> That though the Antients have not marked more then 1022. its not that they would ſay, that there were no more; but that they have onely obſerved the very chiefeſt, for to ſerve to their obſervations. Thoſe 1022. Stars are divided into 48 conſtellations or Figures of animals, which the antients have imagined for to diſcern the one from the others; and have ſeperated them in three rancks, <hi>Septentrionals, Zodiacks,</hi> and <hi>Meridionals.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:165389:8"/>
+               <head>If the Stars are ſhining of themſelves and Tranſparent.</head>
+               <p>ALL the Stars have no proper light of themſelves, but in this manner; all the Stars and Planets are of the ſame nature; but the Moon hath no other light then that which ſhee borrows of the Sun, nor then any other Starre. That if its ſaid, that the Moon looſeth not its light quite, when ſhe eclipſes in the ſhadow of the Earth, becauſe there appeareth a redneſſe in the eclipſed party; and that ſuch red<g ref="char:EOLhyphen"/>neſſe can be her naturall light? I doe anſwer, that it can<g ref="char:EOLhyphen"/>not be naturall, becauſe that if it were ſo, ſhee would never quit it: But when ſhee increaſeth, or that ſhee is in the firſt quarter. The part of the Moon which is not illuminated of the Sun, ought to be provided of that rednes; which is not ſo, as the experience giveth us to underſtand: Then all redneſſe is not naturall to the Moon. That if it bee asked from whence it proceeded, its from the reflection of the light which is incountred in the ſhadow of the Earth: for as the Moon is a poliſhed body, and that the ſhaddow of the Earth is never deſtituted of ſome little light which cauſes that red<g ref="char:EOLhyphen"/>neſſe in her.</p>
+               <p>Of all before ſaid, its clear ſeen, that the Sun is the prin<g ref="char:EOLhyphen"/>ciple of light. God having adorned her with ſuch an emi<g ref="char:EOLhyphen"/>nent quality.</p>
+               <p>Furthermore we ſay, that the Stars are not tranſparent as the Heaven; as can be ſeen in the Moon and Mercuri, when they are interpoſed between our eyes and the Sun; and that they Eclipſe her, but that they are thick.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:165389:8"/>
+               <head>That the Heavens are round, and that they turn the one in the others, from the Orient to the Occident,</head>
+               <p>VVEE have proved that there are eight Heavens; Now we muſt prove that they are round, and that they turn the one in the other from the Orient to the Oc<g ref="char:EOLhyphen"/>cident; the which manifeſtly appears: For we ſee that the Sun, the other Planets, and all the Stars doe riſe firſt in the Orient on the Horiſon; then by little and little advance to the South; ſet to the Occident and next day riſe again in the Orient (let us faſten our ſelves but to the Suns) it muſt be the ſame Sun or another, it cannot be another; for there would require every day a new one. If it is the ſame, it muſt have paſſed over it, within it, or underneath the earth: It cannot have paſſed over it, foraſmuch that there would be no night: the preſence of the Sun cauſing the day. It cannot have paſ<g ref="char:EOLhyphen"/>ſed within, ſince it is greater (as we ſhall ſhew hereafter) it remains then, that it is paſsed underneath; and conſe<g ref="char:EOLhyphen"/>quently its Heaven turns alſo about the Earth; and ſo likewiſe all the other Heavens are round ſince they turn the one in the other about the Earth, and that from Orient to Occident.</p>
+               <p>It is alſo proved that the Heaven is round, becauſe being the part moſt Noble of the world and which containes all the reſt, it is neceſſary that it ſhould have the round form, ſince its the moſt capable, and the moſt perfect, If the Hea<g ref="char:EOLhyphen"/>vens had another figure or forme, thoſe which are inferiour to the others could not carry their Planets from Occident to Orient, becauſe of their angles; or elſe the one muſt pene<g ref="char:EOLhyphen"/>trate the others, and then there would bee penetration in the matter of the Heaven, which hath been proved ſolid and fixe.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
